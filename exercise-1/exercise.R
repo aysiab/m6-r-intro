@@ -14,6 +14,8 @@ my.height <- "5ft 2"
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
 
+puppies <- 5
+
 # Create a variable `puppy.price`, which is how expensive you think a puppy is
 
 # Create a variable `total.cost` that has the total cost of all of your puppies
