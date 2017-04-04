@@ -10,6 +10,8 @@ my.name <- "Aysia"
 
 # Assign your height to a variable `my.height`
 
+my.height <- "5ft 2"
+
 # Create a variable `puppies` equal to the number of puppies you'd like to have
 
 # Create a variable `puppy.price`, which is how expensive you think a puppy is
