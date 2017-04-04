@@ -2,6 +2,8 @@
 
 # Create a variable `hometown` that stores the city in which you were born
 
+hometown <- "Tacoma"
+
 # Assign your name to the variable `my.name`
 
 # Assign your height to a variable `my.height`
