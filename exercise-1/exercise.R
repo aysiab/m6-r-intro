@@ -6,6 +6,8 @@ hometown <- "Tacoma"
 
 # Assign your name to the variable `my.name`
 
+my.name <- "Aysia"
+
 # Assign your height to a variable `my.height`
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
